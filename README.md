@@ -1,2 +1,2 @@
 # THEMIS_Fourier
-Analyzis of THEMIS data
+Analysis of THEMIS data. The density is Fourier-transformed in the magnetosheath and before the bow shock. 
